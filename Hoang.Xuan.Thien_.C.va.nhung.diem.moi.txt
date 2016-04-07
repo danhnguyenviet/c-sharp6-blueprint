@@ -1,7 +1,0 @@
-Hoàng Xuân Thiên
-Một số link thao khảo C# và những điểm mới
-https://itstudent93.wordpress.com/2015/11/15/chuc-nang-moi-c-6-0-trong-visual-2015/
-https://yinyangit.wordpress.com/2010/01/20/m%E1%BB%99t-s%E1%BB%91-di%E1%BB%83m-m%E1%BB%9Bi-trong-c-3-0/
-https://goatysite.wordpress.com/2015/10/23/visual-studio-2015-va-c-6/
-http://laptrinhvb.net/bai-viet/ebook-it/Co-gi-moi-trong--Csharp--6-0-/28088972bb8fcc96.html
-http://linhdkl.blogspot.com/2010/07/ieu-gi-moi-o-c-40.html
